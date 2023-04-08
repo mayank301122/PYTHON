@@ -1,0 +1,12 @@
+Welcome to this lecture on decision making in Python!
+Decision making is a crucial part of any program as it allows the program to make choices based on certain conditions.
+In Python, we have several ways to implement decision making, and in this lecture, we will learn about some of the most commonly used ones. 
+If Statement The most basic form of decision making in Python is the  if statement. 
+It allows the program to execute a block of code only if a certain condition is met. Here's the syntax for an if statement: 
+if  condition: # code to  be executed if  condition   is   True  Here's an example of an if statement in action:   x =  10 if  x > 5 : 
+print ( "x is greater than 5" )  In this example, the condition is x > 5, 
+which is True, so the code block print("x is greater than 5") is executed. 
+If…else Statement Sometimes, we want to execute a different block of code if the condition is not met. In such cases, 
+we can use the if…else statement. Here's the syntax for an if…else statement:   if  condition: 
+# code to  be executed if  condition is  True  else: # code to  be executed if  condition  is   
+False  Here's an example of an if…else statement in action:
